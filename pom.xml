@@ -28,7 +28,7 @@
     <bukkit-version.version>2.1.4</bukkit-version.version>
     <input.version>2.5.3</input.version>
     <!-- File/Configuration Dependencies -->
-    <configs.version>6.0.8</configs.version>
+    <configs.version>6.1.0</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.0.2</equilibrium.version>
     <workload.version>2.2.4</workload.version>
