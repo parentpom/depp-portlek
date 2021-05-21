@@ -20,10 +20,10 @@
   </scm>
   <properties>
     <!-- Minecraft/Bukkit/Spigot/Paper Library Dependencies -->
-    <smartinventory.version>4.3.3</smartinventory.version>
+    <smartinventory.version>4.4.0</smartinventory.version>
     <bukkititembuilder.version>5.1.0</bukkititembuilder.version>
     <scoreboard.version>1.0.7</scoreboard.version>
-    <version-matched.version>3.0.4</version-matched.version>
+    <version-matched.version>3.1.0</version-matched.version>
     <bukkit-location.version>3.1.3</bukkit-location.version>
     <bukkit-version.version>2.2.1</bukkit-version.version>
     <input.version>2.6.0</input.version>
@@ -31,9 +31,9 @@
     <configs.version>6.1.0</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.0.2</equilibrium.version>
-    <workload.version>2.2.4</workload.version>
+    <workload.version>2.3.0</workload.version>
     <replaceable.version>2.3.2</replaceable.version>
-    <reflection.version>4.2.3</reflection.version>
+    <reflection.version>4.3.1</reflection.version>
   </properties>
   <dependencyManagement>
     <dependencies>
