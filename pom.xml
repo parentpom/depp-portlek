@@ -10,7 +10,7 @@
   </parent>
   <artifactId>ppom-portlek</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>ppom</name>
+  <name>ppom-portlek</name>
   <packaging>pom</packaging>
   <description>A parent pom project that contains portlek's dependencies.</description>
   <scm>
