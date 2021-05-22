@@ -1,6 +1,6 @@
 [![idea](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
 
-![master](https://github.com/parentpom/ppom-portlek/workflows/build/badge.svg)
+[![build](https://github.com/parentpom/ppom-portlek/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/parentpom/ppom-portlek/actions/workflows/build.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.parentpom/ppom-portlek?label=version)](https://repo1.maven.org/maven2/io/github/parentpom/ppom-portlek/)
 
 ## How to Use
