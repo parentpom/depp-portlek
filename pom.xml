@@ -25,14 +25,14 @@
     <scoreboard.version>1.1.4</scoreboard.version>
     <version-matched.version>3.1.10</version-matched.version>
     <bukkit-location.version>3.1.7</bukkit-location.version>
-    <bukkit-version.version>2.2.4</bukkit-version.version>
+    <bukkit-version.version>2.2.5</bukkit-version.version>
     <input.version>2.6.3</input.version>
     <!-- File/Configuration Dependencies -->
     <configs.version>6.1.16</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.4</equilibrium.version>
     <workload.version>2.3.4</workload.version>
-    <replaceable.version>2.4.3</replaceable.version>
+    <replaceable.version>2.4.4</replaceable.version>
     <reflection.version>4.3.5</reflection.version>
   </properties>
   <dependencyManagement>
