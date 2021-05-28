@@ -24,16 +24,16 @@
     <bukkititembuilder.version>5.1.10</bukkititembuilder.version>
     <scoreboard.version>1.1.5</scoreboard.version>
     <version-matched.version>3.1.14</version-matched.version>
-    <bukkit-location.version>3.1.8</bukkit-location.version>
+    <bukkit-location.version>3.1.9</bukkit-location.version>
     <bukkit-version.version>2.2.5</bukkit-version.version>
     <input.version>2.6.4</input.version>
     <!-- File/Configuration Dependencies -->
-    <configs.version>6.1.20</configs.version>
+    <configs.version>6.1.22</configs.version>
     <!-- Other Dependencies -->
-    <equilibrium.version>3.1.5</equilibrium.version>
+    <equilibrium.version>3.1.6</equilibrium.version>
     <workload.version>2.3.5</workload.version>
     <replaceable.version>2.4.4</replaceable.version>
-    <reflection.version>4.3.5</reflection.version>
+    <reflection.version>4.3.6</reflection.version>
   </properties>
   <dependencyManagement>
     <dependencies>
