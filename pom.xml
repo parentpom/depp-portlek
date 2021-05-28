@@ -33,7 +33,7 @@
     <equilibrium.version>3.1.6</equilibrium.version>
     <workload.version>2.3.5</workload.version>
     <replaceable.version>2.4.5</replaceable.version>
-    <reflection.version>4.3.6</reflection.version>
+    <reflection.version>4.3.7</reflection.version>
   </properties>
   <dependencyManagement>
     <dependencies>
