@@ -31,7 +31,7 @@
     <configs.version>6.1.34</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.8</equilibrium.version>
-    <workload.version>2.3.6</workload.version>
+    <workload.version>2.3.8</workload.version>
     <replaceable.version>2.5.1</replaceable.version>
     <reflection.version>4.3.9</reflection.version>
   </properties>
