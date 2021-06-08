@@ -30,7 +30,7 @@
     <!-- File/Configuration Dependencies -->
     <configs.version>6.1.28</configs.version>
     <!-- Other Dependencies -->
-    <equilibrium.version>3.1.7</equilibrium.version>
+    <equilibrium.version>3.1.8</equilibrium.version>
     <workload.version>2.3.6</workload.version>
     <replaceable.version>2.5.1</replaceable.version>
     <reflection.version>4.3.8</reflection.version>
