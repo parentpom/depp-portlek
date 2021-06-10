@@ -21,7 +21,7 @@
   <properties>
     <!-- Minecraft/Bukkit/Spigot/Paper Library Dependencies -->
     <smartinventory.version>4.4.9</smartinventory.version>
-    <bukkititembuilder.version>5.2.5</bukkititembuilder.version>
+    <bukkititembuilder.version>5.2.7</bukkititembuilder.version>
     <scoreboard.version>1.1.9</scoreboard.version>
     <version-matched.version>3.1.27</version-matched.version>
     <bukkit-location.version>3.1.13</bukkit-location.version>
