@@ -22,17 +22,17 @@
     <!-- Minecraft/Bukkit/Spigot/Paper Library Dependencies -->
     <smartinventory.version>4.4.9</smartinventory.version>
     <bukkititembuilder.version>5.2.5</bukkititembuilder.version>
-    <scoreboard.version>1.1.8</scoreboard.version>
+    <scoreboard.version>1.1.9</scoreboard.version>
     <version-matched.version>3.1.24</version-matched.version>
     <bukkit-location.version>3.1.12</bukkit-location.version>
     <bukkit-version.version>2.2.9</bukkit-version.version>
-    <input.version>2.6.8</input.version>
+    <input.version>2.6.9</input.version>
     <!-- File/Configuration Dependencies -->
-    <configs.version>6.1.37</configs.version>
+    <configs.version>6.1.39</configs.version>
     <!-- Other Dependencies -->
-    <equilibrium.version>3.1.9</equilibrium.version>
+    <equilibrium.version>3.1.10</equilibrium.version>
     <workload.version>2.3.8</workload.version>
-    <replaceable.version>2.5.2</replaceable.version>
+    <replaceable.version>2.5.3</replaceable.version>
     <reflection.version>4.3.10</reflection.version>
   </properties>
   <dependencyManagement>
