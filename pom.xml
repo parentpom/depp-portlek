@@ -32,7 +32,7 @@
     <transformer.version>1.4.4</transformer.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.11</equilibrium.version>
-    <workload.version>2.3.9</workload.version>
+    <workload.version>2.3.10</workload.version>
     <replaceable.version>2.5.4</replaceable.version>
     <reflection.version>4.3.11</reflection.version>
   </properties>
