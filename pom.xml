@@ -29,7 +29,7 @@
     <input.version>2.6.9</input.version>
     <!-- File/Configuration Dependencies -->
     <configs.version>6.1.40</configs.version>
-    <transformer.version>1.4.2</configs.version>
+    <transformer.version>1.4.2</transformer.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.10</equilibrium.version>
     <workload.version>2.3.9</workload.version>
