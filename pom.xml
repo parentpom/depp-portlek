@@ -29,9 +29,9 @@
     <input.version>2.6.10</input.version>
     <!-- File/Configuration Dependencies -->
     <configs.version>6.1.40</configs.version>
-    <transformer.version>1.4.2</transformer.version>
+    <transformer.version>1.4.4</transformer.version>
     <!-- Other Dependencies -->
-    <equilibrium.version>3.1.10</equilibrium.version>
+    <equilibrium.version>3.1.11</equilibrium.version>
     <workload.version>2.3.9</workload.version>
     <replaceable.version>2.5.4</replaceable.version>
     <reflection.version>4.3.11</reflection.version>
