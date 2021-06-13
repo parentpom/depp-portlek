@@ -28,7 +28,7 @@
     <bukkit-version.version>2.2.11</bukkit-version.version>
     <input.version>2.6.10</input.version>
     <!-- File/Configuration Dependencies -->
-    <configs.version>6.1.40</configs.version>
+    <configs.version>7.0.4</configs.version>
     <transformer.version>1.4.4</transformer.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.11</equilibrium.version>
@@ -72,30 +72,6 @@
         <groupId>com.github.portlek.input</groupId>
         <artifactId>input-paper</artifactId>
         <version>${input.version}</version>
-        <optional>true</optional>
-      </dependency>
-      <dependency>
-        <groupId>com.github.portlek.configs</groupId>
-        <artifactId>configs-core</artifactId>
-        <version>${configs.version}</version>
-        <optional>true</optional>
-      </dependency>
-      <dependency>
-        <groupId>com.github.portlek.configs</groupId>
-        <artifactId>configs-yaml</artifactId>
-        <version>${configs.version}</version>
-        <optional>true</optional>
-      </dependency>
-      <dependency>
-        <groupId>com.github.portlek.configs</groupId>
-        <artifactId>configs-json</artifactId>
-        <version>${configs.version}</version>
-        <optional>true</optional>
-      </dependency>
-      <dependency>
-        <groupId>com.github.portlek.configs</groupId>
-        <artifactId>configs-bukkit</artifactId>
-        <version>${configs.version}</version>
         <optional>true</optional>
       </dependency>
       <dependency>
@@ -150,6 +126,90 @@
         <groupId>com.github.portlek</groupId>
         <artifactId>version-matched</artifactId>
         <version>${version-matched.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-gson-json</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-hjson-json</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-hocon</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-jackson-json</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-jackson-yaml</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-simple-json</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-snakeyaml</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-bukkit-transformers</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-gson-json</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-hjson-json</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-hocon</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-jackson-json</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-jackson-yaml</artifactId>
+        <version>${configs.version}</version>
+        <optional>true</optional>
+      </dependency>
+      <dependency>
+        <groupId>com.github.portlek.configs</groupId>
+        <artifactId>configs-simple-json</artifactId>
+        <version>${configs.version}</version>
         <optional>true</optional>
       </dependency>
     </dependencies>
