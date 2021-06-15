@@ -32,7 +32,7 @@
     <configs.version>7.0.13</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.12</equilibrium.version>
-    <workload.version>2.3.11</workload.version>
+    <workload.version>2.3.12</workload.version>
     <replaceable.version>2.5.5</replaceable.version>
     <reflection.version>4.3.12</reflection.version>
   </properties>
