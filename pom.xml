@@ -6,7 +6,7 @@
   <parent>
     <groupId>io.github.parentpom</groupId>
     <artifactId>ppom</artifactId>
-    <version>3.4.0</version>
+    <version>3.4.1</version>
   </parent>
   <artifactId>ppom-portlek</artifactId>
   <version>1.0.0-SNAPSHOT</version>
@@ -32,7 +32,7 @@
     <configs.version>7.0.16</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.12</equilibrium.version>
-    <workload.version>2.3.11</workload.version>
+    <workload.version>2.3.12</workload.version>
     <replaceable.version>2.5.5</replaceable.version>
     <reflection.version>4.3.13</reflection.version>
   </properties>
