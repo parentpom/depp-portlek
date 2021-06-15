@@ -23,16 +23,16 @@
     <smartinventory.version>4.4.11</smartinventory.version>
     <bukkititembuilder.version>5.3.7</bukkititembuilder.version>
     <scoreboard.version>1.1.10</scoreboard.version>
-    <version-matched.version>3.1.30</version-matched.version>
+    <version-matched.version>3.1.33</version-matched.version>
     <bukkit-location.version>3.1.14</bukkit-location.version>
     <bukkit-version.version>2.2.12</bukkit-version.version>
     <input.version>2.6.10</input.version>
     <!-- File/Configuration Dependencies -->
     <transformer.version>1.5.1</transformer.version>
-    <configs.version>7.0.11</configs.version>
+    <configs.version>7.0.13</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.11</equilibrium.version>
-    <workload.version>2.3.10</workload.version>
+    <workload.version>2.3.11</workload.version>
     <replaceable.version>2.5.4</replaceable.version>
     <reflection.version>4.3.12</reflection.version>
   </properties>
