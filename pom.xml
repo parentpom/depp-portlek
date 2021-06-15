@@ -31,7 +31,7 @@
     <transformer.version>1.5.7</transformer.version>
     <configs.version>7.0.16</configs.version>
     <!-- Other Dependencies -->
-    <equilibrium.version>3.1.12</equilibrium.version>
+    <equilibrium.version>3.1.13</equilibrium.version>
     <workload.version>2.3.12</workload.version>
     <replaceable.version>2.5.6</replaceable.version>
     <reflection.version>4.3.13</reflection.version>
