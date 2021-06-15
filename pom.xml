@@ -25,7 +25,7 @@
     <scoreboard.version>1.1.10</scoreboard.version>
     <version-matched.version>3.1.30</version-matched.version>
     <bukkit-location.version>3.1.14</bukkit-location.version>
-    <bukkit-version.version>2.2.11</bukkit-version.version>
+    <bukkit-version.version>2.2.12</bukkit-version.version>
     <input.version>2.6.10</input.version>
     <!-- File/Configuration Dependencies -->
     <transformer.version>1.5.1</transformer.version>
