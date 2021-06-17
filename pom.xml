@@ -20,7 +20,7 @@
   </scm>
   <properties>
     <!-- Minecraft/Bukkit/Spigot/Paper Library Dependencies -->
-    <smartinventory.version>4.4.12</smartinventory.version>
+    <smartinventory.version>4.4.13</smartinventory.version>
     <scoreboard.version>1.1.13</scoreboard.version>
     <bukkititembuilder.version>5.4.5</bukkititembuilder.version>
     <version-matched.version>3.1.34</version-matched.version>
