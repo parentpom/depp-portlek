@@ -29,12 +29,12 @@
     <bukkit-version.version>2.2.14</bukkit-version.version>
     <!-- File/Configuration Dependencies -->
     <transformer.version>1.5.8</transformer.version>
-    <configs.version>7.0.20</configs.version>
+    <configs.version>7.0.21</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.13</equilibrium.version>
     <workload.version>2.3.13</workload.version>
     <replaceable.version>2.5.7</replaceable.version>
-    <reflection.version>4.3.13</reflection.version>
+    <reflection.version>4.3.14</reflection.version>
   </properties>
   <dependencyManagement>
     <dependencies>
