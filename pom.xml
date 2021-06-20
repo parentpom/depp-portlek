@@ -28,8 +28,8 @@
     <input.version>2.6.13</input.version>
     <bukkit-version.version>2.2.14</bukkit-version.version>
     <!-- File/Configuration Dependencies -->
-    <transformer.version>1.5.8</transformer.version>
-    <configs.version>7.0.21</configs.version>
+    <transformer.version>1.5.10</transformer.version>
+    <configs.version>7.0.24</configs.version>
     <!-- Other Dependencies -->
     <equilibrium.version>3.1.13</equilibrium.version>
     <workload.version>2.3.13</workload.version>
